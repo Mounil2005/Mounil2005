@@ -1,11 +1,10 @@
 # Mounil
-This repository contains my GitHub profile README 🚀
+
 
 # Hi, I'm Mounil 👋  
 
 🎓 3rd Year B.Tech Student @ Manipal University Jaipur  
-💻 Passionate about **AI, ML, and Web Development**  
-📌 Currently on my **100 Days of Code Challenge**  
+💻 Passionate about **AI, ML, and Web Development**   
 📷 Photography enthusiast | Tech Explorer | Open Source Contributor  
 
 ---
@@ -46,16 +45,7 @@ This repository contains my GitHub profile README 🚀
 - 🥇 Oracle Certified in **SQL**  
 - 📜 Certificate in Communication Skills – **Trinity College London**  
 - 🎤 Presented Research at **ACL 2025**  
-- 🚀 First Hackathon – **Code-ए-Manipal**
 
-
----
-
-## 📊 GitHub Stats  
-
-![Mounil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mounil2005&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mounil2005&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounil2005&layout=compact&theme=radical)
 
 ---
 
