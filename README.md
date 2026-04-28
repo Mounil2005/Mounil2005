@@ -3,8 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mounil2005&label=Profile%20Views&color=6E40C9&style=flat" alt="profile views" />
-  &nbsp;
   <a href="https://linkedin.com/in/mounil-kankhara-ab90122a4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -19,9 +17,8 @@
 ## About Me
 
 - **B.E. Information Technology** @ Manipal University Jaipur *(2023 – Present)*
-- **Software Developer Intern** @ [Autellia Technology](https://autellia.com) · **Junior Committer** @ [Hiero SDK Python](https://github.com/hiero-ledger/hiero-sdk-python)
+- **Software Developer Intern** @ [Autellia Technology](https://autellia.com)
 - ML Researcher with **4 publications** across ACL 2025, ICDSA 2025, SSIC 2025, and an accepted book chapter
-- Community Manager, **ACM Club** · Completed **100 Days of Code**
 
 ---
 
