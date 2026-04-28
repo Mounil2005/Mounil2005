@@ -3,6 +3,8 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mounil2005&label=Profile%20Views&color=6E40C9&style=flat" alt="profile views" />
+  &nbsp;
   <a href="https://linkedin.com/in/mounil-kankhara-ab90122a4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
