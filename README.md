@@ -18,7 +18,7 @@
 
 ## About Me
 
-- **B.E. Information Technology** @ Manipal University Jaipur *(2023 – Present)*
+- **BTech. Information Technology** @ Manipal University Jaipur *(2023 – Present)*
 - **Software Developer Intern** @ [Autellia Technology](https://autellia.com)
 - ML Researcher with **4 publications** across ACL 2025, ICDSA 2025, SSIC 2025, and an accepted book chapter
 
