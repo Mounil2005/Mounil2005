@@ -51,7 +51,7 @@ Full record: [ORCID · 0009-0002-3836-4590](https://orcid.org/0009-0002-3836-459
 
 **Software Developer Intern** &nbsp;·&nbsp; [Autellia Technology](https://autellia.com) &nbsp;·&nbsp; `Sep 2025 – May 2026 · Remote`
 
-Frontend built from scratch. Sanity.io CMS modeled so the team edits content without touching code. Data flow cleaned up and the whole thing deployed to production on the company domain. One intern, one production site, real clients looking at it every day.
+Frontend built from scratch. Sanity.io CMS modeled so the team edits content without touching code. Data flow cleaned up and the whole thing deployed to production on the company domain. One production site, real clients looking at it every day.
 
 `Next.js` `React` `TypeScript` `Sanity.io` `Content Modeling` `Tailwind CSS` `Responsive Design` `SEO` `GoDaddy` `DNS & Deployment`
 
