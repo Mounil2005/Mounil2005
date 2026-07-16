@@ -209,11 +209,22 @@ Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Student Convenor, SSIC 2
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mounil2005/Mounil2005/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mounil2005/Mounil2005/output/github-contribution-grid-snake.svg" />
-    <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Mounil2005/Mounil2005/output/github-contribution-grid-snake.svg" width="95%" />
-  </picture>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution skyline" />
+</p>
+
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## Live Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" width="95%" alt="GitHub metrics dashboard" />
 </p>
 
 ---
