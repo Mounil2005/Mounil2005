@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mounil;AI+%26+ML+Researcher;Open+Source+Contributor;Software+Developer;Builder+of+things+that+ship" alt="Typing SVG" />
-</h1>
+<picture>
+  <img alt="wave banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:6E40C9&height=200&section=header&text=Mounil%20Kankhara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Open%20Source%20Committer&descAlignY=56&descSize=17" />
+</picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mounil;AI+%26+ML+Researcher;Open+Source+Contributor;Software+Developer;Builder+of+things+that+ship" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mounil2005&label=Profile%20Views&color=6E40C9&style=flat" alt="profile views" />
@@ -29,6 +33,13 @@
 B.Tech IT student at Manipal University Jaipur with 4 published/accepted research papers, a committer seat at Hiero (open-source distributed ledger SDKs), and a software development internship that went from "build the website" to owning the entire production stack.
 
 I work across AI/ML research, open source contribution, and software engineering — not as separate tracks, but as the same habit of showing up for hard problems and shipping something real.
+
+```text
+🔭  Currently building   → IMPRINT, an AI-generated content detector for web & code
+🌱  Currently exploring  → federated learning on edge hardware (Jetson Nano · Qualcomm)
+💬  Ask me about         → NLP, federated learning, or turning a paper into shipped code
+⚡  Fun fact             → I'm also the guy campus companies call to run the placement drive
+```
 
 ---
 
@@ -189,6 +200,22 @@ Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Student Convenor, SSIC 2
   <img src="https://streak-stats.demolab.com?user=Mounil2005&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounil2005&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mounil2005&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mounil2005/Mounil2005/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mounil2005/Mounil2005/output/github-contribution-grid-snake.svg" />
+    <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Mounil2005/Mounil2005/output/github-contribution-grid-snake.svg" width="95%" />
+  </picture>
+</p>
+
 ---
 
 ## Connect
@@ -215,6 +242,8 @@ Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Student Convenor, SSIC 2
   </a>
 </p>
 
----
-
 <p align="center"><i>B.Tech Information Technology · Manipal University Jaipur · 2023–27</i></p>
+
+<picture>
+  <img alt="wave footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:14B8A6&height=100&section=footer" />
+</picture>
