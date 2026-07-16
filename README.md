@@ -192,20 +192,20 @@ Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Student Convenor, SSIC 2
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mounil2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounil2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mounil2005&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=14B8A6&icon_color=6E40C9&text_color=C9D1D9&border_color=0D1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounil2005&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9&border_color=0D1117" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mounil2005&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mounil2005&hide_border=true&background=0D1117&ring=14B8A6&fire=6E40C9&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=6E40C9&dates=8B949E&border=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounil2005&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounil2005&hide_border=true&area=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=6E40C9&area_color=6E40C9" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mounil2005&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mounil2005&theme=dracula&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 <p align="center">
