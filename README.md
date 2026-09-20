@@ -34,14 +34,6 @@ B.Tech IT student at Manipal University Jaipur with 4 published/accepted researc
 
 I work across AI/ML research, open source contribution, and software engineering — not as separate tracks, but as the same habit of showing up for hard problems and shipping something real.
 
-```text
-🔭  Currently building   → IMPRINT, an AI-generated content detector for web & code
-🌱  Currently exploring  → federated learning on edge hardware (Jetson Nano · Qualcomm)
-💬  Ask me about         → NLP, federated learning, or turning a paper into shipped code
-⚡  Fun fact             → I'm also the guy campus companies call to run the placement drive
-📸  Off the clock        → a camera, carried everywhere since school
-```
-
 ---
 
 ## Research
