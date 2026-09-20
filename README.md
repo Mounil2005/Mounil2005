@@ -272,6 +272,10 @@ Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Treasurer, WikiClubTech 
 
 <p align="center"><i>B.Tech Information Technology · Manipal University Jaipur · 2023–27</i></p>
 
+<p align="center">
+  <img src="./githubpersonworking.gif" width="380" alt="developer at work" />
+</p>
+
 <picture>
   <img alt="wave footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:14B8A6&height=100&section=footer" />
 </picture>
