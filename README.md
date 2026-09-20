@@ -39,6 +39,7 @@ I work across AI/ML research, open source contribution, and software engineering
 🌱  Currently exploring  → federated learning on edge hardware (Jetson Nano · Qualcomm)
 💬  Ask me about         → NLP, federated learning, or turning a paper into shipped code
 ⚡  Fun fact             → I'm also the guy campus companies call to run the placement drive
+📸  Off the clock        → a camera, carried everywhere since school
 ```
 
 ---
@@ -53,6 +54,7 @@ Four publications across NLP, federated learning, computer vision, and privacy-p
 | [**Privacy-Preserving ECG Classification via Federated Learning** (FedDefender)](https://link.springer.com/chapter/10.1007/978-3-032-10753-4_34) | ICDSA 2025 | Published |
 | **MAGLFormer: Unified Transformer for Image Restoration** | SSIC 2025 | Accepted |
 | **Federated Learning for Remote Sensing Image Analysis** | Book Chapter | In press |
+| **Hybrid GIS-IoT-ML Framework for Intelligent Drinking Water Management** (HydroGIS-ML) | IEEE 2026 | Accepted |
 
 Full record: [ORCID · 0009-0002-3836-4590](https://orcid.org/0009-0002-3836-4590)
 
@@ -68,6 +70,14 @@ Frontend built from scratch. Sanity.io CMS modeled so the team edits content wit
 
 ---
 
+**Research Intern** &nbsp;·&nbsp; IIIT Allahabad &nbsp;·&nbsp; `Jan 2026 – Feb 2026`
+
+Eastern Uttar Pradesh has 2.5 million registered rural water sources and under 29% of them have been formally tested. Under Dr. Saurabh Mishra at an Institute of National Importance, built **HydroGIS-ML** — IoT telemetry and Sentinel-2 satellite data fused into a GIS risk score, then a stacked Random Forest + XGBoost ensemble (explained with SHAP) that ranks which untested sources to test next. The allocation algorithm finds 89% of contaminated sources with 53% fewer tests than random sampling. Funded under CST-UP Project No. CST/D-1240, Department of Science & Technology, Government of Uttar Pradesh.
+
+`Python` `scikit-learn` `XGBoost` `SHAP` `GIS / MCDA` `Sentinel-2` `IoT Telemetry` `Ensemble Learning`
+
+---
+
 ## Projects
 
 **[IMPRINT](https://www.imprint.codes/) &nbsp;·&nbsp; [Source](https://github.com/Mounil2005/imprint)**
@@ -75,6 +85,22 @@ Frontend built from scratch. Sanity.io CMS modeled so the team edits content wit
 Paste a URL or a GitHub repo. Imprint crawls it, fingerprints the DOM and the code, and scores how much of it was machine-generated — pattern detection, custom scoring heuristics, and a verdict you're welcome to argue with.
 
 `Next.js` `TypeScript` `Playwright` `Tailwind CSS` `Docker` `DOM Analysis` `Heuristic Scoring` `Web Crawling` `Vercel`
+
+---
+
+**[AlertLens](https://alertlens-inky.vercel.app/) &nbsp;·&nbsp; [Source](https://github.com/Mounil2005/HPE--HACKATHON-ALERT-CORRELATION-DEDUPLICATION)**
+
+When infrastructure breaks, it doesn't send one alert — it sends four hundred. AlertLens fingerprints them, vectorises with TF-IDF, and clusters on a time window with DBSCAN until what's left is the handful of incidents that actually happened, each with a root cause, a risk score, and a blast radius. 🥈 2nd place · HPE Synergy 2026 Hackathon (₹30,000).
+
+`Python` `FastAPI` `Next.js` `TypeScript` `scikit-learn` `DBSCAN` `TF-IDF` `Cerebras LLM`
+
+---
+
+**[CausalOCPM](https://mounil-causalocpm.streamlit.app/) &nbsp;·&nbsp; [Source](https://github.com/Mounil2005/CausalOCPM)**
+
+Process mining that answers "why," not just "what happened." Bridges object-centric event logs and structural causal models — discovers the DAG with the PC algorithm, closes backdoor paths, and runs counterfactual policy simulations you can actually act on. First public tool to unify OCPM, causal discovery, SCM fitting, and counterfactual simulation in one pipeline.
+
+`Python` `Streamlit` `pm4py` `causal-learn` `DoWhy` `Double ML` `SHAP` `Cerebras LLM`
 
 ---
 
@@ -99,6 +125,7 @@ End-to-end UI test framework on the Page Object Model. Explicit waits, headless 
 **Hiero** &nbsp;·&nbsp; Open-source distributed ledger SDKs &nbsp;·&nbsp; `Junior Committer · hiero-sdk-python`
 
 - 30+ pull requests merged across the Python SDK, Go SDK, and hiero.org website
+- Contributions to the Hiero Analytics repo and hiero-streams-rs (Record Streams)
 - Features, bug fixes, code reviews, issue triage, and roadmap discussions as a committer
 
 `Python` `Go` `TypeScript` `Next.js` `React` `SDK Engineering` `Distributed Systems`
@@ -131,7 +158,9 @@ End-to-end UI test framework on the Page Object Model. Explicit waits, headless 
 
 A small central team sits between the student body and every company hiring from campus — coordinating JDs, eligibility lists, interview panels, shortlists, and offer rollouts end-to-end.
 
-Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Student Convenor, SSIC 2025 &nbsp;·&nbsp; Logistics lead for two Wikimedia events (100+ participants each).
+Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Treasurer, WikiClubTech MUJ &nbsp;·&nbsp; Student Convenor, SSIC 2025 &nbsp;·&nbsp; Logistics lead for two Wikimedia events (100+ participants each).
+
+**Recognition:** 🥈 2nd place (₹30,000) — [AlertLens](https://alertlens-inky.vercel.app/) at the HPE Synergy 2026 Hackathon.
 
 > Most of what's on this page started the same way: something needed doing, nobody was quite sure how, and I said I'd figure it out. A placement drive, a hackathon for a hundred people, a codebase I'd never seen. Same answer every time.
 
@@ -144,10 +173,12 @@ Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Student Convenor, SSIC 2
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Web / Full-Stack**
 
@@ -155,6 +186,7 @@ Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Student Convenor, SSIC 2
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
