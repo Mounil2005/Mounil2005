@@ -231,6 +231,7 @@ Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Treasurer, WikiClubTech 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mounil2005&hide_border=true&background=0D1117&ring=14B8A6&fire=6E40C9&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=6E40C9&dates=8B949E&border=0D1117" />
 </p>
+<p align="center"><sub>Total contributions since account start</sub></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounil2005&hide_border=true&area=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=6E40C9&area_color=6E40C9" width="95%" />
@@ -243,6 +244,7 @@ Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Treasurer, WikiClubTech 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution skyline" />
 </p>
+<p align="center"><sub>Public contributions, past year only — numbers won't match the streak stats above</sub></p>
 
 ---
 
