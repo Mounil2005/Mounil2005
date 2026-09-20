@@ -88,9 +88,9 @@ When infrastructure breaks, it doesn't send one alert — it sends four hundred.
 
 ---
 
-**[CausalOCPM](https://mounil-causalocpm.streamlit.app/) &nbsp;·&nbsp; [Source](https://github.com/Mounil2005/CausalOCPM)**
+**[CausalOCPM](https://causalocpm-mit-research-conclave.vercel.app/) &nbsp;·&nbsp; [Source](https://github.com/Mounil2005/causalocpm-mit-research-conclave)**
 
-Process mining that answers "why," not just "what happened." Bridges object-centric event logs and structural causal models — discovers the DAG with the PC algorithm, closes backdoor paths, and runs counterfactual policy simulations you can actually act on. First public tool to unify OCPM, causal discovery, SCM fitting, and counterfactual simulation in one pipeline.
+Process mining that answers "why," not just "what happened." Bridges object-centric event logs and structural causal models — discovers the DAG with the PC algorithm, closes backdoor paths, and runs counterfactual policy simulations you can actually act on. First public tool to unify OCPM, causal discovery, SCM fitting, and counterfactual simulation in one pipeline. 🥈 2nd place · MIT Research Conclave 2026 (₹12,000).
 
 `Python` `Streamlit` `pm4py` `causal-learn` `DoWhy` `Double ML` `SHAP` `Cerebras LLM`
 
@@ -152,7 +152,7 @@ A small central team sits between the student body and every company hiring from
 
 Other roles: Community Manager, ACM Club &nbsp;·&nbsp; Treasurer, WikiClubTech MUJ &nbsp;·&nbsp; Student Convenor, SSIC 2025 &nbsp;·&nbsp; Logistics lead for two Wikimedia events (100+ participants each).
 
-**Recognition:** 🥈 2nd place (₹30,000) — [AlertLens](https://alertlens-inky.vercel.app/) at the HPE Synergy 2026 Hackathon.
+**Recognition:** 🥈 2nd place (₹30,000) — [AlertLens](https://alertlens-inky.vercel.app/) at the HPE Synergy 2026 Hackathon &nbsp;·&nbsp; 🥈 2nd place (₹12,000) — [CausalOCPM](https://causalocpm-mit-research-conclave.vercel.app/) at the MIT Research Conclave 2026.
 
 > Most of what's on this page started the same way: something needed doing, nobody was quite sure how, and I said I'd figure it out. A placement drive, a hackathon for a hundred people, a codebase I'd never seen. Same answer every time.
 
